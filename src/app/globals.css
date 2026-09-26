@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 48 33% 97%; /* #FAF9F6 Warm Ivory */
+    --foreground: 160 84% 9%; /* #04251B Dark Emerald */
+  }
+
+  body {
+    @apply bg-[#FAF9F6] text-slate-800 font-sans antialiased selection:bg-emerald-100 selection:text-emerald-900;
+  }
+}
+
+/* Subtle Geometric Star Pattern for Islamic Portal */
+.islamic-grid-pattern {
+  background-color: #FAF9F6;
+  background-image: radial-gradient(#064e3b 0.65px, transparent 0.65px), radial-gradient(#064e3b 0.65px, #FAF9F6 0.65px);
+  background-size: 26px 26px;
+  background-position: 0 0, 13px 13px;
+}
+
+.emerald-card-glow {
+  box-shadow: 0 10px 30px -10px rgba(6, 78, 59, 0.08);
+}
+
+.emerald-card-glow:hover {
+  box-shadow: 0 20px 40px -15px rgba(6, 78, 59, 0.16);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1ee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #047857;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #064e3b;
+}
