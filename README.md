@@ -1,6 +1,6 @@
 # LDK FIKRI PNJ - Portal Resmi & Syiar Kampus
 
-Website resmi Lembaga Dakwah Kampus (LDK) FIKRI Politeknik Negeri Jakarta. Platform informasi kegiatan dakwah kampus, materi syiar keislaman, mentoring keagamaan (PAMI), dan program wakaf pembangunan fisik Masjid Daarul Ilmi PNJ.
+Prototype Website Lembaga Dakwah Kampus (LDK) FIKRI Politeknik Negeri Jakarta. Platform informasi kegiatan dakwah kampus, materi syiar keislaman, mentoring keagamaan, dan program wakaf pembangunan fisik Masjid Daarul Ilmi PNJ.
 
 🌐 **Live Website:** [https://ldk-fikri-pnj.vercel.app](https://ldk-fikri-pnj.vercel.app)
 
@@ -65,4 +65,5 @@ Website resmi Lembaga Dakwah Kampus (LDK) FIKRI Politeknik Negeri Jakarta. Platf
 
 ## 📄 Lisensi & Kontribusi
 
-Dikelola secara resmi oleh Divisi Kominfo LDK FIKRI Politeknik Negeri Jakarta.
+Dibuat untuk perkembangan Dakwah Selanjutnya
+
